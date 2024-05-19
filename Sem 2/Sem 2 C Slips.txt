@@ -1,0 +1,90 @@
+Slip 1:
+All done
+
+Slip 2:
+All done
+
+Slip 3:
+Q1 & Q2(1) Done
+
+Slip 4:
+Q1, Q2(2) done but try to get appropriate output (use name starting with caps in middle) Q2(1) 
+
+Slip 5:
+All Done
+
+Slip 6:
+Q1 & Q2(1) done
+
+Slip 7:
+Q1 & Q2(2) done
+
+Slip 8:
+Q1 & Q2(1) done
+
+Slip 9:
+All done
+
+Slip 10:
+Q1,Q2(1) & Q2(2) done (Try to do Q2(2) using pointer to structure)
+
+Slip 11:
+Q1 & Q2(1) done 
+
+Slip 12:     HelloHi Hi
+Q2(2)
+
+Slip 13: 
+All done
+
+Slip 14:
+Q1 & Q2(1)
+
+Slip 15:
+Q2(2) & Q1
+
+Slip 16:
+Q1:use 2*pi*r
+Q2(2)
+
+Slip 17:
+Q1 & Q2(1) (Q2(1) is String city search program)
+
+Slip 18:
+All done
+
+Slip 19:
+All done
+
+Slip 20:
+All done
+
+Slip 21:
+Q1 & Q2(1)
+
+Slip 22:
+All done
+
+Slip 23:
+Q1 & Q2(1)
+
+Slip 24:
+Q1 & Q2(1)
+
+Slip 25:
+Q1 & Q2(1)
+
+Slip 26:
+Q1 (Circumference of Circle:2*pi*r) & Q2(1)
+
+Slip 27:
+Q1(Try using void in DMA) & Q2(1)
+
+Slip 28:
+Q1 & Q2(1)
+
+Slip 29:
+Q1 & Q2(1)
+
+Slip 30:
+All done
